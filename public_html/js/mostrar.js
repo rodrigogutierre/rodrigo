@@ -46,6 +46,6 @@ $(document).ready(function () {
         $('#algodehtml').hide();
         $('#algodeajax').hide();
         $('#algodeform').show();
-    });
+    })
 });
 	
